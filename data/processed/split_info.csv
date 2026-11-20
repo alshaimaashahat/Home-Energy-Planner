@@ -1,0 +1,4 @@
+split,n_days,first_date,last_date
+train,962,2006-12-24,2009-08-28
+validation,90,2009-08-29,2009-11-26
+test,331,2009-11-27,2010-11-26

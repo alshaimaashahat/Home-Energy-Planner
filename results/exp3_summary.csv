@@ -1,0 +1,5 @@
+method,MAE kW (all test days),RMSE kW (all test days),MAE kW (scenario days),cost EUR/day (simulated),household-limit violations (h / 30 days),grid-limit violations (h / 30 days),plan failures (fallback used)
+Last week,0.5865 +- 0,0.8473 +- 0,0.5578 +- 0.04,9.002 +- 0.435,17.4 +- 3.85,62.4 +- 8.41,0 +- 0
+Neural Network,0.4549 +- 0.00274,0.6228 +- 0.00179,0.4319 +- 0.037,8.839 +- 0.433,10.8 +- 4.44,58.8 +- 10.1,0 +- 0
+"Oracle (real load, reference)",0 +- 0,0 +- 0,0 +- 0,8.711 +- 0.422,0.4 +- 0.894,1.2 +- 2.68,0.2 +- 0.447
+Yesterday,0.5721 +- 0,0.8412 +- 0,0.5193 +- 0.046,8.954 +- 0.4,13 +- 5.34,60.6 +- 11.6,0.2 +- 0.447

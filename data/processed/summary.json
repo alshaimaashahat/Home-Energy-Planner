@@ -1,0 +1,14 @@
+{
+  "minute_rows": 2075259,
+  "missing_minute_share": 0.012518437457686004,
+  "hours_total": 34608,
+  "hours_missing_before_fill": 451,
+  "hours_filled": 9,
+  "hours_still_missing": 552,
+  "days_total": 1442,
+  "days_valid": 1419,
+  "days_invalid": 23,
+  "first_timestamp": "2006-12-16 17:24:00",
+  "last_timestamp": "2010-11-26 21:02:00",
+  "seed": 42
+}

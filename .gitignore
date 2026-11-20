@@ -1,0 +1,29 @@
+
+# Original raw dataset
+data/household_power_consumption.zip
+data/household_power_consumption.txt
+
+# Python cache
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Temporary files
+.DS_Store
+*.log
+*.tmp
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Generated PDF reports
+report/*.pdf
+reports/*.pdf
